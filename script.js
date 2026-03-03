@@ -4,7 +4,7 @@ document.getElementById("darkToggle").onclick = () => {
 };
 
 // TYPING EFFECT
-const text = "Gita Ceasar";
+const text = "Gita Ceasar Rani";
 let i = 0;
 function typing() {
   if (i < text.length) {
